@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Logs / temp
+*.log
+/tmp/
+.DS_Store
+
+# Local chrome profile if any
+.chrome-profile/
+
+# Editor
+.idea/
+.vscode/
+*.swp
